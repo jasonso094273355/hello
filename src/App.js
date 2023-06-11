@@ -1,22 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
-
-
-<head>
-
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-N7E9W4713G"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag()[dataLayer.push(arguments);]
-  gtag('js', new Date());
-
-  gtag('config', 'G-N7E9W4713G');
-</script>
-
-</head>
-
 function App() {
-  return (
+return (
 <div>
 
      <div className="name">
